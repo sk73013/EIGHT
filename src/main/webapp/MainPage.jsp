@@ -36,7 +36,7 @@
 	          </a>
 	        </li>
 	        <li class="nav-item">
-	          <a class="nav-link" href="#">Chatting</a>
+	          <a class="nav-link" href="http://175.211.188.160:8088/">Chatting</a>
 	        </li>
 	        <li class="nav-item" onclick="location='AccountManageP.jsp';">
 	          <a class="nav-link" href="#">Account Management</a>
